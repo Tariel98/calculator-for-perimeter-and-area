@@ -1,3 +1,3 @@
 # calculator-for-perimeter-and-area
 
-For run program enter commant "make"
+For run program enter command "make"
